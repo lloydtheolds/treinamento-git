@@ -1,6 +1,2 @@
 Oi! Eu sou Alice. Sou um arquivo recente agora, vai estudar Matheus.
-<<<<<<< HEAD
-
-=======
-MDS FUNCIONA, Denas."
->>>>>>> Denas
+Puest
